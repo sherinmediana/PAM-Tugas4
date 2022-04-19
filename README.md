@@ -1,4 +1,4 @@
-# Tugas Individu PAM 4
+# PAM Tugas Individu 4
 ## Nama Aplikasi 
 QBaR-code
 
