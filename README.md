@@ -3,7 +3,7 @@
 QBaR-code
 
 ## Deskripsi Aplikasi
-QBaR-code adalah aplikasi pemindai QR-code maupun Barcode. Cara penggunaan aplikasi ini cukup mudah, hanya dengan memindai kode dengan menggunakan ponsel yang dilengkapi dengan kamera, maka informasi yang terdapat di QR-Code maupun Barcode tersebut dapat terbaca.
+QBaR-code adalah aplikasi pemindai QR-code maupun Barcode. Cara penggunaan aplikasi ini hanya dengan memindai kode dengan menggunakan ponsel yang dilengkapi dengan kamera, maka informasi yang terdapat di QR-code maupun Barcode tersebut dapat terbaca.
 
 ## Daftar Package yang digunakan
 *	"@react-native-async-storage/async-storage": "~1.15.0",
